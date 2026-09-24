@@ -54,7 +54,8 @@ Imagine we conduct an experiment to predict the growth of a plant based on diffe
    # Independent Variables:
    # Sunlight Hours: Number of hours the plant is exposed to sunlight daily.
    # Water Amount: Daily water amount given to the plant (in milliliters).
-   # Soil Nitrogen Content: Percentage of nitrogen content in the soil.
+   # Soil Nitrogen Content: Percentage of nitrogen content in the soil.( soil is the last date from starting)
+
 
 
    # Dependent Variable:
