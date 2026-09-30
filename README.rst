@@ -178,7 +178,7 @@ If you already know about Bayesian statistics:
 -  The `PyMC tutorial <https://docs.pymc.io/en/latest/learn/core_notebooks/pymc_overview.html>`__
 -  `PyMC examples <https://www.pymc.io/projects/examples/en/latest/gallery.html>`__ and the `API reference <https://docs.pymc.io/en/stable/api.html>`__
 
-Learn Bayesian statistics with a book together with PyMC
+Learn Bayesian statistics with a book together with PyMC(The bayesian statistics is the 
 --------------------------------------------------------
 
 -  `Bayesian Analysis with Python  <http://bap.com.ar/>`__ (third edition) by Osvaldo Martin: Great introductory book.
